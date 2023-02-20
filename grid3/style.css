@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+}
+
+.header {
+    background-color: purple;
+}
+
+.main {
+    background-color: greenyellow;
+}
+
+.empty {
+    background-color: grey;
+}
+
+.sidebar {
+    background-color: blue;
+}
+
+.footer{
+    background-color: orange;
+}
